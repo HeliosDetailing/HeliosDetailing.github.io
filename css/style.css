@@ -47,6 +47,11 @@ h3{
     text-align: left;
     font-family: 'IBM Plex Serif', Georgia, serif;
 }
+#copyright{
+	text-align: center;
+	font-family: 'IBM Plex Serif', Georgia, serif;
+	font-size: 14px;
+}
 /*
 Images
 */
@@ -65,9 +70,17 @@ Images
 }
 .alert{
 	text-align: center;
-	color: rgb(250, 70, 70);
+	color: rgb(250, 30, 30);
 	padding: 0px;
 	margin: 0px;
+	text-transform: uppercase;
+}
+.image-wide{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	padding: 0px;
 }
 /*
 Lists

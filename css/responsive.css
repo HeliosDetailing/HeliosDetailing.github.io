@@ -17,6 +17,20 @@
 		margin-top: 4px;
 		margin-bottom: 4px;
 	}
+	.column-container-image{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		direction: ltr;
+		align-items: flex-start;
+	}
+	.column-image{
+		flex-grow: 1;
+		flex-shrink: 1;
+		border-radius: 5px;
+		margin: 5px;
+		width: 40%
+	}
 	#orange{
 		background-color: #FED8B1
 	}
