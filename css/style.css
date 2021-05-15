@@ -47,6 +47,11 @@ h3{
     text-align: left;
     font-family: 'IBM Plex Serif', Georgia, serif;
 }
+.notice{
+	text-align: center;
+	font-weight: bold;
+    font-family: 'IBM Plex Serif', Georgia, serif;
+}
 #copyright{
 	text-align: center;
 	font-family: 'IBM Plex Serif', Georgia, serif;
@@ -95,6 +100,7 @@ li {
     list-style-type: square;
     font-family: 'IBM Plex Serif', Georgia, serif;
     font-size: 17px;
+    line-height: 1.8;
 }
 ul ul li{
 	list-style-type: circle;

@@ -31,10 +31,18 @@
 		margin: 5px;
 		width: 40%
 	}
+	img{
+		max-width: 50%;
+	}
 	#orange{
 		background-color: #FED8B1
 	}
 	#blue{
 		background-color: #ADD8E6
+	}
+}
+@media screen and (max-width: 749px){
+	.highlight{
+		background-color: #FFFF00
 	}
 }
