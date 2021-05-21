@@ -1,2 +1,3 @@
 # HeliosDetailing.github.io
-Our website
+The official website of Helios Detailing
+Check out: https://heliosdetailing.github.io/
