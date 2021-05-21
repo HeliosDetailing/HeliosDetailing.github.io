@@ -80,14 +80,12 @@ Images
 	margin: 0px;
 	text-transform: uppercase;
 }
-.alert-very{
+.notice-red{
+	color: rgb(250, 15, 15);
 	text-align: center;
-	color: rgb(250, 30, 30);
-	padding: 0px;
-	margin: 0px;
 	font-weight: bold;
-	font-family: 'IBM Plex Serif', Georgia, serif;
-	font-size: 24px;
+    font-family: 'IBM Plex Serif', Georgia, serif;
+    text-transform: uppercase;
 }
 .image-wide{
 	display: block;
