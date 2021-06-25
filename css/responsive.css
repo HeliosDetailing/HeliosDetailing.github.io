@@ -1,4 +1,4 @@
-@media screen and (min-width: 850px) {
+@media screen and (min-width: 750px) {
 	.column-container{
 		display: flex;
 		flex-direction: row;
@@ -43,8 +43,11 @@
 	#red{
 		background-color: rgb(250, 175, 175);
 	}
+	#green{
+		background-color: rgb(102, 240, 178);
+	}
 }
-@media screen and (max-width: 849px){
+@media screen and (max-width: 749px){
 	.highlight{
 		background-color: #FFFF00
 	}
